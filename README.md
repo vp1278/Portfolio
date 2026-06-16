@@ -5,21 +5,12 @@
 Materials Engineer with experience in polymer processing, quality assurance, manufacturing improvement, materials testing, and data-driven defect analysis.
 
 ---
-Inline-style: 
-![alt text](https://github.com/vp1278/Portfolio/blob/main/Fig1.png)
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-
 # Portfolio
 
 ## 1. Mapping and Detecting Ridges on Metal Coated Products
 **BlueScope Steel | Jan 2025 – Sept 2025**
 
-![Ridge Detection](images/ridge_detection.png)
+![Ridge Detection](https://github.com/vp1278/Portfolio/blob/main/Fig1.png)
 
 ### Objective
 Developed a method to detect ridge formation during hot dip galvanising using XRF coating weight measurements.
@@ -41,12 +32,12 @@ The detection method was validated and prepared for implementation on the produc
 
 **Qenos | Aug 2023 – Nov 2023**
 
-![Polyethylene Defect Detection](images/polymer_defects.png)
+![Polyethylene Defect Detection]([images/polymer_defects.png](https://github.com/vp1278/Portfolio/blob/main/Fig2.png))
 
 ### Objective
 Improved QA testing procedures for polyethylene film extrusion by increasing defect detection accuracy.
 
-### Work Completed
+### Approach
 - Analysed camera-based defect detection data
 - Investigated false defect classifications
 - Applied image analysis techniques to distinguish defect types
@@ -61,7 +52,7 @@ Improved defect classification and increased reliability of film quality assessm
 
 **Qenos | Aug 2023 – Jan 2024**
 
-![Strain Hardening](images/strain_hardening.png)
+![Strain Hardening]([images/strain_hardening.png](https://github.com/vp1278/Portfolio/blob/main/Fig3.png))
 
 ### Objective
 Developed an internal method to measure strain hardening modulus of polyethylene pipe materials.
@@ -81,7 +72,9 @@ Established a repeatable testing workflow for assessing slow crack growth resist
 
 **Qenos | Sept 2023 – Jan 2024**
 
-![QA Interface](images/interface.png)
+![QA Interface]([images/interface.png](https://github.com/vp1278/Portfolio/blob/main/Fig4.png))
+
+![QA Interface]([images/interface.png](https://github.com/vp1278/Portfolio/blob/main/Fig4b.png))
 
 ### Objective
 Developed software tools to improve access to QA data.
@@ -113,29 +106,52 @@ Used molecular dynamics simulations to study Fe-MIL-101(Cr) derived catalysts.
 - Built computational material models
 - Simulated thermal degradation behaviour
 - Analysed atomic interactions and catalyst structures
+### Link to published paper (ChemCatChem)
+https://doi.org/10.1002/cctc.202500784
+---
+
+# 6. Composite Manufacturing and FEA of Racing Fairing
+
+**Monash Human Power | June 2021 – Nov 2022**
+
+![MOF Modelling](images/mof.png)
+
+### Objective
+Designed and manufactured a lightweight carbon-fibre composite fairing for a human-powered vehicle.
+
+### Work Completed
+- Manufactured composites using:
+  - Wet layup
+  - Vacuum bagging
+  - Resin infusion
+- Integrated carbon fibre, Kevlar, and PVC core materials with epoxy resin
+- Performed FEA simulations in ANSYS to evaluate structural performance
+
+### Outcome
+Validated fairing strength through simulation and competition testing, achieving a peak vehicle speed of **116 km/h**.
 
 ---
 
-# Skills
+# 7. Quantifying the severity of cracks in metal coated steels
+**BlueScope Steel | Jan 2026 – Feb 2026**
 
-## Materials
-- Polymer processing
-- Extrusion
-- Mechanical testing
-- Materials characterisation
-- Quality assurance
-- Failure investigation
+![MOF Modelling](images/mof.png)
 
-## Software
-- Python
-- MATLAB
-- ANSYS
-- SolidWorks
-- SQL
-- C#
-- JavaScript
+### Objective
+Designed and manufactured a lightweight carbon-fibre composite fairing for a human-powered vehicle.
+Developed a computer-vision-based method of assessing the crack severity within metal coatings
 
----
+### Work Completed
+- Manufactured composites using:
+  - Wet layup
+  - Vacuum bagging
+  - Resin infusion
+- Integrated carbon fibre, Kevlar, and PVC core materials with epoxy resin
+- Performed FEA simulations in ANSYS to evaluate structural performance
+
+### Outcome
+Validated fairing strength through simulation and competition testing, achieving a peak vehicle speed of **116 km/h**.
+
 
 # Contact
 
