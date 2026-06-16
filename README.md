@@ -12,7 +12,7 @@ Vignesh-Pakkiam-Portfolio.pdf includes more detailed information on the below pr
 ## 1. Mapping and Detecting Ridges on Metal Coated Products
 **BlueScope Steel | Jan 2025 – Sept 2025**
 
-![Ridge Detection](https://github.com/vp1278/Portfolio/blob/main/Fig1.png)
+![Ridge Detection](https://github.com/vp1278/Portfolio/blob/main/image/Fig1.png)
 
 ### Objective
 Developed a method to detect ridge formation during hot dip galvanising using XRF coating weight measurements.
@@ -34,7 +34,7 @@ The detection method was validated and prepared for implementation on the produc
 
 **Qenos | Aug 2023 – Nov 2023**
 
-![Polyethylene Defect Detection](https://github.com/vp1278/Portfolio/blob/main/Fig2.png)
+![Polyethylene Defect Detection](https://github.com/vp1278/Portfolio/blob/main/image/Fig2.png)
 
 ### Objective
 Improved QA testing procedures for polyethylene film extrusion by increasing defect detection accuracy.
@@ -54,7 +54,7 @@ Improved defect classification and increased reliability of film quality assessm
 
 **Qenos | Aug 2023 – Jan 2024**
 
-![Strain Hardening](https://github.com/vp1278/Portfolio/blob/main/Fig3.png)
+![Strain Hardening](https://github.com/vp1278/Portfolio/blob/main/image/Fig3.png)
 
 ### Objective
 Developed an internal method to measure strain hardening modulus of polyethylene pipe materials.
@@ -74,9 +74,9 @@ Established a repeatable testing workflow for assessing slow crack growth resist
 
 **Qenos | Sept 2023 – Jan 2024**
 
-![QA Interface](https://github.com/vp1278/Portfolio/blob/main/Fig4.png)
+![QA Interface](https://github.com/vp1278/Portfolio/blob/main/image/Fig4.png)
 
-![QA Interface](https://github.com/vp1278/Portfolio/blob/main/Fig4b.png)
+![QA Interface](https://github.com/vp1278/Portfolio/blob/main/image/Fig4b.png)
 
 ### Objective
 Developed software tools to improve access to QA data.
@@ -99,7 +99,7 @@ Developed software tools to improve access to QA data.
 
 **Monash University | Final Year Engineering Project**
 
-![MOF Modelling](https://github.com/vp1278/Portfolio/blob/main/Fig5.png)
+![MOF Modelling](https://github.com/vp1278/Portfolio/blob/main/image/Fig5.png)
 
 ### Objective
 Used molecular dynamics simulations to study Fe-MIL-101(Cr) derived catalysts.
@@ -116,7 +116,7 @@ https://doi.org/10.1002/cctc.202500784
 
 **Monash Human Power | June 2021 – Nov 2022**
 
-![MHP](https://github.com/vp1278/Portfolio/blob/main/Fig6.png)
+![MHP](https://github.com/vp1278/Portfolio/blob/main/image/Fig6.png)
 
 ### Objective
 Designed and manufactured a lightweight carbon-fibre composite fairing for a human-powered vehicle.
@@ -137,7 +137,7 @@ Validated fairing strength through simulation and competition testing, achieving
 # 7. Quantifying the severity of cracks in metal coated steels
 **BlueScope Steel | Jan 2026 – Feb 2026**
 
-![Crack detection](https://github.com/vp1278/Portfolio/blob/main/Fig7.png)
+![Crack detection](https://github.com/vp1278/Portfolio/blob/main/image/Fig7.png)
 
 ### Objective
 Designed and manufactured a lightweight carbon-fibre composite fairing for a human-powered vehicle.
