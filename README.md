@@ -6,7 +6,7 @@ Materials Engineer with experience in polymer processing, quality assurance, man
 
 ---
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/vp1278/Portfolio/blob/main/Fig1.png)
 
 Reference-style: 
 ![alt text][logo]
