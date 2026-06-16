@@ -140,20 +140,22 @@ Validated fairing strength through simulation and competition testing, achieving
 ![Crack detection](https://github.com/vp1278/Portfolio/blob/main/image/Fig7.png)
 
 ### Objective
-Designed and manufactured a lightweight carbon-fibre composite fairing for a human-powered vehicle.
-Developed a computer-vision-based method of assessing the crack severity within metal coatings
+Developed a computer vision-based method to quantify crack severity in metal coatings.
 
 ### Work Completed
-- Manufactured composites using:
-  - Wet layup
-  - Vacuum bagging
-  - Resin infusion
-- Integrated carbon fibre, Kevlar, and PVC core materials with epoxy resin
-- Performed FEA simulations in ANSYS to evaluate structural performance
+- Analysed microcracking in metal coated steel using T-bend testing
+- Developed an OpenCV image processing workflow using:
+  - Image enhancement
+  - Thresholding
+  - Edge detection
+  - Ridge filtering
+- Extracted crack features including:
+  - Crack density
+  - Crack area
+  - Crack length
 
 ### Outcome
-Validated fairing strength through simulation and competition testing, achieving a peak vehicle speed of **116 km/h**.
-
+Created a repeatable approach to convert visual crack assessment into quantitative measurements for comparing coating performance.
 
 # Contact
 
