@@ -5,6 +5,14 @@
 Materials Engineer with experience in polymer processing, quality assurance, manufacturing improvement, materials testing, and data-driven defect analysis.
 
 ---
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
 
 # Portfolio
 
