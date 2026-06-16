@@ -2,7 +2,7 @@
 
 ## Materials Engineering (Honours) and Science (Chemistry and Mathematics)
 
-Materials Engineer with experience in polymer processing, quality assurance, manufacturing improvement, materials testing, and data-driven defect analysis.
+Materials Engineer with experience in polymer processing, metal coating technologies, quality assurance, manufacturing improvement, materials testing, data-driven defect analysis, working in cross-functional teams, large production trials, and supporting customer technical enquiries.
 
 ---
 # Portfolio
