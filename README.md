@@ -4,7 +4,7 @@
 
 Materials Engineer with experience in polymer processing, metal coating technologies, quality assurance, manufacturing improvement, materials testing, data-driven defect analysis, working in cross-functional teams, large production trials, and supporting customer technical enquiries.
 
-Vignesh-Pakkiam-Portfolio includes more detailed information on the below projects (pdf attached to repository)
+Vignesh-Pakkiam-Portfolio.pdf includes more detailed information on the below projects (pdf attached to repository)
 
 ---
 # Portfolio
