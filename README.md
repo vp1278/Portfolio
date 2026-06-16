@@ -32,7 +32,7 @@ The detection method was validated and prepared for implementation on the produc
 
 **Qenos | Aug 2023 – Nov 2023**
 
-![Polyethylene Defect Detection]([images/polymer_defects.png](https://github.com/vp1278/Portfolio/blob/main/Fig2.png))
+![Polyethylene Defect Detection](https://github.com/vp1278/Portfolio/blob/main/Fig2.png)
 
 ### Objective
 Improved QA testing procedures for polyethylene film extrusion by increasing defect detection accuracy.
@@ -52,7 +52,7 @@ Improved defect classification and increased reliability of film quality assessm
 
 **Qenos | Aug 2023 – Jan 2024**
 
-![Strain Hardening]([images/strain_hardening.png](https://github.com/vp1278/Portfolio/blob/main/Fig3.png))
+![Strain Hardening](https://github.com/vp1278/Portfolio/blob/main/Fig3.png)
 
 ### Objective
 Developed an internal method to measure strain hardening modulus of polyethylene pipe materials.
@@ -72,9 +72,9 @@ Established a repeatable testing workflow for assessing slow crack growth resist
 
 **Qenos | Sept 2023 – Jan 2024**
 
-![QA Interface]([images/interface.png](https://github.com/vp1278/Portfolio/blob/main/Fig4.png))
+![QA Interface](https://github.com/vp1278/Portfolio/blob/main/Fig4.png)
 
-![QA Interface]([images/interface.png](https://github.com/vp1278/Portfolio/blob/main/Fig4b.png))
+![QA Interface](https://github.com/vp1278/Portfolio/blob/main/Fig4b.png)
 
 ### Objective
 Developed software tools to improve access to QA data.
@@ -97,7 +97,7 @@ Developed software tools to improve access to QA data.
 
 **Monash University | Final Year Engineering Project**
 
-![MOF Modelling](images/mof.png)
+![MOF Modelling](https://github.com/vp1278/Portfolio/blob/main/Fig5.png)
 
 ### Objective
 Used molecular dynamics simulations to study Fe-MIL-101(Cr) derived catalysts.
@@ -114,7 +114,7 @@ https://doi.org/10.1002/cctc.202500784
 
 **Monash Human Power | June 2021 – Nov 2022**
 
-![MOF Modelling](images/mof.png)
+![MHP](https://github.com/vp1278/Portfolio/blob/main/Fig6.png)
 
 ### Objective
 Designed and manufactured a lightweight carbon-fibre composite fairing for a human-powered vehicle.
@@ -135,7 +135,7 @@ Validated fairing strength through simulation and competition testing, achieving
 # 7. Quantifying the severity of cracks in metal coated steels
 **BlueScope Steel | Jan 2026 – Feb 2026**
 
-![MOF Modelling](images/mof.png)
+![Crack detection](https://github.com/vp1278/Portfolio/blob/main/Fig7.png)
 
 ### Objective
 Designed and manufactured a lightweight carbon-fibre composite fairing for a human-powered vehicle.
